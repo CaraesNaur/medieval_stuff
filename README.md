@@ -1,5 +1,5 @@
 # medieval_stuff
-Various documents relevant to Medieval insterests
+Various documents relevant to Medieval interests.
 
 ##prices_list.ods
 
