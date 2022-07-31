@@ -7,7 +7,7 @@ LibreOffice Calc spreadsheet containing various Medieval-era prices for
 goods & services (and some wages).
 
 This file started as the famous Medieval Price List published by
-[Kenneth Hodges](https://liberalarts.vt.edu/departments-and-schools/department-of-english/faculty/kenneth-hodges.html).  Other souerces include:
+[Kenneth Hodges](https://liberalarts.vt.edu/departments-and-schools/department-of-english/faculty/kenneth-hodges.html).  Other sources include:
 
 * http://www.medievalcoinage.com/prices/medievalprices.htm
 * https://www.economics.utoronto.ca/munro5/SPICES1.htm
